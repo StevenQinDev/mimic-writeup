@@ -1,0 +1,119 @@
+{
+  "reviewed_on": "2026-11-17",
+  "challenges": [
+    {
+      "slug": "the-king-and-the-beggar",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-king-and-the-beggar",
+      "official_flag": "RBH{n0th1ng_st4ys_th3_s4m3}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "mirage",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-mirage",
+      "official_flag": "RBH{3v3ry_fl4g_st4rts_w1th_UkJI}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-cave-keeps-no-secrets",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-cave-keeps-no-secrets-only-order",
+      "official_flag": "RBH{th3_sh4d0w_n3v3r_l13s_th3_w4ll_d03s}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "three-guards",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-three-guards",
+      "official_flag": "RBH{tw0_gu4rds_t0ld_th3_truth}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-stopped-clock",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-stopped-clock",
+      "official_flag": "RBH{t1me_n3v3r_st0pp3d_w3_d1d_fee903f9}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "night-4018",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-night-4-018",
+      "official_flag": "RBH{th3_0bs3rv3r_w4s_m1ss1ng}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "halvards-light",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-halvard-s-light",
+      "official_flag": "RBH{the_light_was_for_the_living_7c60765a}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-quiet-hour",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-quiet-hour",
+      "official_flag": "RBH{th3_w4t3r_f0rg3ts_th3_wh1sp3r1ng}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "i-am-because-we-are",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-i-am-because-we-are",
+      "official_flag": null,
+      "corroboration": "workflow only; flag not printed"
+    },
+    {
+      "slug": "honest-hashes",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-honest-hashes",
+      "official_flag": "RBH{n0t_3v3ry_a_1s_an_a}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "perpetual-leak",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-perpetual-leak",
+      "official_flag": "RBH{p3rp3tu4l_ch3ck_c4nt_h1d3_th3_k3y_1n_th3_squ4r3s}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "project-borealis",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-project-borealis-the-arctic-shadow",
+      "official_flag": "RBH{SVALSAT_9130183_UBYQ2}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "ghost-in-the-gearbox",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-ghost-in-the-gearbox",
+      "official_flag": "RBH{th3_g34rbox_n3v3r_l13s}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-keeper-of-salt-reach",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-keeper-of-salt-reach",
+      "official_flag": "RBH{th3_l1ght_w4s_n3v3r_l1t_4t_4ll}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "clockmakers-vault",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-clockmaker-s-vault",
+      "official_flag": "RBH{cl0ckmaker_hid_a_vm_in_here}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "postmarked-never",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-postmarked-never",
+      "official_flag": "RBH{th3_1nk_0utl1v3d_th3_g00dbye}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-last-waltz",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-last-waltz",
+      "official_flag": "RBH{Un1c0d3_Gh0st5_W34r_Ev3ry_F4c3}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "lethe",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-lethe",
+      "official_flag": "RBH{th3_r1v3r_f0rg3ts_th3_row_n0t_th3_numb3r_9_b0a6}",
+      "corroboration": "published flag and solution compared"
+    },
+    {
+      "slug": "the-hargrove-disappearance",
+      "official_solution": "https://ctf.rarebytehub.com/events/mimic/writeups/official-solution-the-hargrove-disappearance",
+      "official_flag": "RBH{23_44_cameras_died_the_tea_stayed_warm_3055d0a6}",
+      "corroboration": "published flag and solution compared"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "source": "https://ctf.rarebytehub.com/events/mimic/challenges",
+  "captured_at": "2026-11-15",
+  "scope": "Verbatim challenge descriptions reproduced from the Mimic CTF challenge page. URLs in the statements refer to the competition environment.",
+  "challenges": [
+    {
+      "slug": "the-king-and-the-beggar",
+      "challenge_id": 21,
+      "title": "The King and the Beggar",
+      "prompt_file": "docs/crypto/the-king-and-the-beggar/PROMPT.md",
+      "prompt_sha256": "dcc1a90a88d9a4e3c57e877934115ada03aa376dbe28326cac1dccf55c7f0ee3",
+      "attachments": [],
+      "historical_target": null
+    },
+    {
+      "slug": "mirage",
+      "challenge_id": 23,
+      "title": "Mirage",
+      "prompt_file": "docs/crypto/mirage/PROMPT.md",
+      "prompt_sha256": "cf4919179f1215a89b8e2ed674393739dcdf7d5a99449baf22a3455dc11b988c",
+      "attachments": [],
+      "historical_target": null
+    },
+    {
+      "slug": "the-cave-keeps-no-secrets",
+      "challenge_id": 19,
+      "title": "The Cave Keeps No Secrets, Only Order",
+      "prompt_file": "docs/crypto/the-cave-keeps-no-secrets/PROMPT.md",
+      "prompt_sha256": "abdffa8a1aea2a054fbbb5289c19117a27b56492a182851bc496abbd4f864cbf",
+      "attachments": [],
+      "historical_target": null
+    },
+    {
+      "slug": "three-guards",
+      "challenge_id": 37,
+      "title": "Three Guards",
+      "prompt_file": "docs/crypto/three-guards/PROMPT.md",
+      "prompt_sha256": "12398e17b84f89c04054d3c2742e9945f89c4086cb688acdcd0a430ccc0b97cc",
+      "attachments": [],
+      "historical_target": null
+    },
+    {
+      "slug": "the-stopped-clock",
+      "challenge_id": 20,
+      "title": "The Stopped Clock",
+      "prompt_file": "docs/forensics/the-stopped-clock/PROMPT.md",
+      "prompt_sha256": "f19b4b0c1449c5ec2cd8112f1d2e080f7769269bf62102631a3a5b4dfd3ef6b1",
+      "attachments": [
+        "src/solvers/the-stopped-clock/last_seen.png"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "night-4018",
+      "challenge_id": 25,
+      "title": "Night 4,018",
+      "prompt_file": "docs/forensics/night-4018/PROMPT.md",
+      "prompt_sha256": "67c26ea2d69b52096aef26d1ff8502789c8204f4a96b5e081ac40cb21051a24a",
+      "attachments": [
+        "src/solvers/night-4018/night_4018.png"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "halvards-light",
+      "challenge_id": 24,
+      "title": "Halvard's Light",
+      "prompt_file": "docs/forensics/halvards-light/PROMPT.md",
+      "prompt_sha256": "012241ce2360f8aa2ddbbc6177549d7a9a013516fdb063190f8f68a3aa2171c2",
+      "attachments": [
+        "src/solvers/halvards-light/halvards_light.png"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "the-quiet-hour",
+      "challenge_id": 26,
+      "title": "The Quiet Hour",
+      "prompt_file": "docs/forensics/the-quiet-hour/PROMPT.md",
+      "prompt_sha256": "e594f4c0b505d8264d241725aeb5b5448a562a3d93c89461c2d8e69709b39a01",
+      "attachments": [
+        "src/solvers/the-quiet-hour/the_quiet_hour.png"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "i-am-because-we-are",
+      "challenge_id": 31,
+      "title": "I Am Because We Are",
+      "prompt_file": "docs/misc/i-am-because-we-are/PROMPT.md",
+      "prompt_sha256": "633f0502f453cf76666b4d02fc0ffebd40ff585a5b82eecce39e20d0f9c9721e",
+      "attachments": [],
+      "historical_target": null
+    },
+    {
+      "slug": "honest-hashes",
+      "challenge_id": 22,
+      "title": "Honest Hashes",
+      "prompt_file": "docs/misc/honest-hashes/PROMPT.md",
+      "prompt_sha256": "b854a8fc805897f871ff67904575c9d4ac7713852714822a0fc274beff404de4",
+      "attachments": [
+        "src/solvers/honest-hashes/ciphertext.txt"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "perpetual-leak",
+      "challenge_id": 27,
+      "title": "Perpetual Leak",
+      "prompt_file": "docs/misc/perpetual-leak/PROMPT.md",
+      "prompt_sha256": "b934a13011afdd98b383afbc19eb7a6cff359341c9ac935fb6d96b629530fd6b",
+      "attachments": [
+        "src/solvers/perpetual-leak/chess_moves.txt",
+        "src/solvers/perpetual-leak/intercepted.txt"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "project-borealis",
+      "challenge_id": 34,
+      "title": "Project Borealis: The Arctic Shadow",
+      "prompt_file": "docs/osint/project-borealis/PROMPT.md",
+      "prompt_sha256": "3dd842c4b78e2e6bc95ebfde4693d8f56c6909bd6eda8392ddc95ed88d346c17",
+      "attachments": [
+        "src/solvers/project-borealis/ground_station.jpg"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "ghost-in-the-gearbox",
+      "challenge_id": 28,
+      "title": "GHOST IN THE GEARBOX",
+      "prompt_file": "docs/reverse/ghost-in-the-gearbox/PROMPT.md",
+      "prompt_sha256": "67c224ee49acfcaab1d4b6346cb40a7af826de8315fb457275dea71d2f80d57a",
+      "attachments": [
+        "src/solvers/ghost-in-the-gearbox/ghost_gearbox.elf"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "the-keeper-of-salt-reach",
+      "challenge_id": 29,
+      "title": "The Keeper of Salt Reach",
+      "prompt_file": "docs/reverse/the-keeper-of-salt-reach/PROMPT.md",
+      "prompt_sha256": "53ca97f581d2135a9f5dd148895cb7e18ec9fe17cd32c1ae28aa2566127e65e2",
+      "attachments": [
+        "src/solvers/the-keeper-of-salt-reach/logbook"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "clockmakers-vault",
+      "challenge_id": 35,
+      "title": "The Clockmaker’s Vault",
+      "prompt_file": "docs/reverse/clockmakers-vault/PROMPT.md",
+      "prompt_sha256": "3071c70ea0ba4527dded3b355adbb34d3a9f9268b7ce545aab50f1da2cede08e",
+      "attachments": [
+        "src/solvers/clockmakers-vault/clockmakers_vault"
+      ],
+      "historical_target": null
+    },
+    {
+      "slug": "postmarked-never",
+      "challenge_id": 32,
+      "title": "Postmarked: Never",
+      "prompt_file": "docs/web/postmarked-never/PROMPT.md",
+      "prompt_sha256": "373a14e4fdd9b8974f31706cc0110c2757d08132ed42e2a6ee081d4fd29e0607",
+      "attachments": [],
+      "historical_target": "http://98.80.121.178:9001"
+    },
+    {
+      "slug": "the-last-waltz",
+      "challenge_id": 33,
+      "title": "The Last Waltz",
+      "prompt_file": "docs/web/the-last-waltz/PROMPT.md",
+      "prompt_sha256": "ba361fc34ec81280c6b4ce68f5eba4afba2bf14d3b99199d2bdb05e29095dcbf",
+      "attachments": [],
+      "historical_target": "http://98.80.121.178:9000"
+    },
+    {
+      "slug": "lethe",
+      "challenge_id": 30,
+      "title": "Lethe",
+      "prompt_file": "docs/web/lethe/PROMPT.md",
+      "prompt_sha256": "b1fbc9072ab4fd6a456d0bac4a61b2f345f848c691ca896656d9d3b86ef079f7",
+      "attachments": [],
+      "historical_target": "http://98.80.121.178:8000"
+    },
+    {
+      "slug": "the-hargrove-disappearance",
+      "challenge_id": 36,
+      "title": "The Hargrove Disappearance",
+      "prompt_file": "docs/web/the-hargrove-disappearance/PROMPT.md",
+      "prompt_sha256": "5cb4d00e94efc822e3db6ba95b5e90a2aab3a95c4398778a1e87fb4df9acd294",
+      "attachments": [],
+      "historical_target": "http://98.80.121.178:9002"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "source": "https://ctf.rarebytehub.com/events/mimic/challenges",
+  "captured_at": "2026-11-15",
+  "event": "Mimic 2026",
+  "start_utc": "2026-11-07T12:00:00Z",
+  "end_utc": "2026-11-08T12:00:00Z",
+  "note": "Challenge titles, categories, identifiers, point values, and solve counts from the event platform.",
+  "challenges": [
+    {
+      "slug": "the-king-and-the-beggar",
+      "title": "The King and the Beggar",
+      "category": "crypto",
+      "id": 21,
+      "points": 100,
+      "snapshot_solves": 97
+    },
+    {
+      "slug": "mirage",
+      "title": "Mirage",
+      "category": "crypto",
+      "id": 23,
+      "points": 100,
+      "snapshot_solves": 57
+    },
+    {
+      "slug": "the-cave-keeps-no-secrets",
+      "title": "The Cave Keeps No Secrets, Only Order",
+      "category": "crypto",
+      "id": 19,
+      "points": 300,
+      "snapshot_solves": 26
+    },
+    {
+      "slug": "three-guards",
+      "title": "Three Guards",
+      "category": "crypto",
+      "id": 37,
+      "points": 300,
+      "snapshot_solves": 16
+    },
+    {
+      "slug": "the-stopped-clock",
+      "title": "The Stopped Clock",
+      "category": "forensics",
+      "id": 20,
+      "points": 100,
+      "snapshot_solves": 71
+    },
+    {
+      "slug": "night-4018",
+      "title": "Night 4,018",
+      "category": "forensics",
+      "id": 25,
+      "points": 100,
+      "snapshot_solves": 66
+    },
+    {
+      "slug": "halvards-light",
+      "title": "Halvard's Light",
+      "category": "forensics",
+      "id": 24,
+      "points": 300,
+      "snapshot_solves": 34
+    },
+    {
+      "slug": "the-quiet-hour",
+      "title": "The Quiet Hour",
+      "category": "forensics",
+      "id": 26,
+      "points": 300,
+      "snapshot_solves": 16
+    },
+    {
+      "slug": "i-am-because-we-are",
+      "title": "I Am Because We Are",
+      "category": "misc",
+      "id": 31,
+      "points": 50,
+      "snapshot_solves": 60
+    },
+    {
+      "slug": "honest-hashes",
+      "title": "Honest Hashes",
+      "category": "misc",
+      "id": 22,
+      "points": 100,
+      "snapshot_solves": 76
+    },
+    {
+      "slug": "perpetual-leak",
+      "title": "Perpetual Leak",
+      "category": "misc",
+      "id": 27,
+      "points": 300,
+      "snapshot_solves": 40
+    },
+    {
+      "slug": "project-borealis",
+      "title": "Project Borealis: The Arctic Shadow",
+      "category": "osint",
+      "id": 34,
+      "points": 300,
+      "snapshot_solves": 56
+    },
+    {
+      "slug": "ghost-in-the-gearbox",
+      "title": "GHOST IN THE GEARBOX",
+      "category": "reverse",
+      "id": 28,
+      "points": 100,
+      "snapshot_solves": 89
+    },
+    {
+      "slug": "the-keeper-of-salt-reach",
+      "title": "The Keeper of Salt Reach",
+      "category": "reverse",
+      "id": 29,
+      "points": 300,
+      "snapshot_solves": 74
+    },
+    {
+      "slug": "clockmakers-vault",
+      "title": "The Clockmaker’s Vault",
+      "category": "reverse",
+      "id": 35,
+      "points": 300,
+      "snapshot_solves": 55
+    },
+    {
+      "slug": "postmarked-never",
+      "title": "Postmarked: Never",
+      "category": "web",
+      "id": 32,
+      "points": 100,
+      "snapshot_solves": 39
+    },
+    {
+      "slug": "the-last-waltz",
+      "title": "The Last Waltz",
+      "category": "web",
+      "id": 33,
+      "points": 100,
+      "snapshot_solves": 14
+    },
+    {
+      "slug": "lethe",
+      "title": "Lethe",
+      "category": "web",
+      "id": 30,
+      "points": 300,
+      "snapshot_solves": 19
+    },
+    {
+      "slug": "the-hargrove-disappearance",
+      "title": "The Hargrove Disappearance",
+      "category": "web",
+      "id": 36,
+      "points": 500,
+      "snapshot_solves": 7
+    }
+  ]
+}

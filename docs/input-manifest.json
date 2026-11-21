@@ -1,0 +1,68 @@
+[
+  {
+    "challenge": "the-stopped-clock",
+    "file": "src/solvers/the-stopped-clock/last_seen.png",
+    "bytes": 3449566,
+    "sha256": "8d1bad7deb782c76d46f650b4cf5809af904654ed410f7e8e81908a573175cf6"
+  },
+  {
+    "challenge": "night-4018",
+    "file": "src/solvers/night-4018/night_4018.png",
+    "bytes": 1878439,
+    "sha256": "edc83fd441316ce2d2e0f83519819d5edcfba8b98ba74f3fd319cf00522874b7"
+  },
+  {
+    "challenge": "halvards-light",
+    "file": "src/solvers/halvards-light/halvards_light.png",
+    "bytes": 1669954,
+    "sha256": "b78a3d47128cc30b933b49107c4bb224d98857df2ded76e871d6fe4435d5e35f"
+  },
+  {
+    "challenge": "the-quiet-hour",
+    "file": "src/solvers/the-quiet-hour/the_quiet_hour.png",
+    "bytes": 2809391,
+    "sha256": "54afe5dcd606bf156e104869764af0d22ec3579b8951a0373b64c470bbebed57"
+  },
+  {
+    "challenge": "honest-hashes",
+    "file": "src/solvers/honest-hashes/ciphertext.txt",
+    "bytes": 1274,
+    "sha256": "f73133f48ce303a7c2abd05b8d0666839cd14cd97cf2257d3cc6a0f32498c9c8"
+  },
+  {
+    "challenge": "perpetual-leak",
+    "file": "src/solvers/perpetual-leak/chess_moves.txt",
+    "bytes": 484,
+    "sha256": "d5bba5cd8078a6a035061bc2eb0be8154ec7001cb8be481be30764bdf2fdee16"
+  },
+  {
+    "challenge": "perpetual-leak",
+    "file": "src/solvers/perpetual-leak/intercepted.txt",
+    "bytes": 107,
+    "sha256": "e1af4f67a721a9742764083565dd22c34c5d16cf2ebbd65f64bcaea9676a52e1"
+  },
+  {
+    "challenge": "project-borealis",
+    "file": "src/solvers/project-borealis/ground_station.jpg",
+    "bytes": 7343522,
+    "sha256": "fec54c4a716583adc6606727bbc517488a25787ecf4cd1156b283052522beee2"
+  },
+  {
+    "challenge": "ghost-in-the-gearbox",
+    "file": "src/solvers/ghost-in-the-gearbox/ghost_gearbox.elf",
+    "bytes": 14512,
+    "sha256": "1474d668c30d8b4cc6bdeec8553e56670295f71fc4bee86b1e526890451cf19a"
+  },
+  {
+    "challenge": "the-keeper-of-salt-reach",
+    "file": "src/solvers/the-keeper-of-salt-reach/logbook",
+    "bytes": 3486,
+    "sha256": "9ac9480b5f2202f07cd76ec192c506d0b267042f01ee121c2b7aafb991280798"
+  },
+  {
+    "challenge": "clockmakers-vault",
+    "file": "src/solvers/clockmakers-vault/clockmakers_vault",
+    "bytes": 14512,
+    "sha256": "22ac958fc068d77969022165a184730a638a35e56f13ddefcc7ada5673bfc470"
+  }
+]

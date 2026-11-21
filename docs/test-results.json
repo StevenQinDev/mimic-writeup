@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-11-21",
+  "python": "3.12",
+  "platform": "Windows",
+  "scope": "Isolated local run with socket connections blocked. Original challenge executables are parsed, not executed.",
+  "results": [
+    {
+      "slug": "clockmakers-vault",
+      "script": "src/solvers/clockmakers-vault/solve_cycles.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "Raw solutions: 65536 ; printable: 6 ; RBH flags: 1\nFlag: RBH{cl0ckmaker_hid_a_vm_in_here}\nAll 256 uniform key XOR masks preserve the target; altered input rejected\n",
+      "stderr": "",
+      "script_sha256": "41783afa3f9a0f38e9244adcca3b29905b6b9f510d4edbd9fba1e2d3b32c4cc9"
+    },
+    {
+      "slug": "clockmakers-vault",
+      "script": "src/solvers/clockmakers-vault/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "Recovered bytes: b'RBH{cl0ckmaker_hid_a_vm_in_here}'\nFlag: RBH{cl0ckmaker_hid_a_vm_in_here}\nVM accepted; altered input rejected; steps: 1510\nUnique printable RBH flag confirmed\n",
+      "stderr": "",
+      "script_sha256": "be3e4e44c6d358ab717377fe1a99622ad9b064a6f6c3551583427d5107172d11"
+    },
+    {
+      "slug": "ghost-in-the-gearbox",
+      "script": "src/solvers/ghost-in-the-gearbox/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "password: b'gh0st_1n_g34rs'\nflag    : RBH{th3_g34rbox_n3v3r_l13s}\n",
+      "stderr": "",
+      "script_sha256": "934d386dcf82f94f0346e64582b870c2f40518389d39bc5a7356ea81ea6148cf"
+    },
+    {
+      "slug": "halvards-light",
+      "script": "src/solvers/halvards-light/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "keeper_log.txt 1788 encrypted: True\nsignal.wav 1105190 encrypted: True\nSKARN POINT LIGHT -- KEEPER'S LOG (Board copy)\nKeeper: Halvard Venn          Station established: 1911\n\n--- 14 Nov 1983 ---\nFair weather, wind light from the north-west. Fishing smack GANNET passed at\ndusk, lamp answered. At 21:40 the coaster MARIGOLD, my daughter Mira aboard\nas second mate, failed to make her call. No storm. No distress. Sea like glass.\nLamp lit all night.\n\n--- 15 Nov 1983 ---\nCoast Guard found nothing. No wreckage, no oil, no lifejacket. The Board\nsuggests I rest. I have relit the lamp.\n\n--- 14 Nov 1984 ---\nOne year. Lamp lit every night. Passing traffic: LARK, ODESSA ROSE, GANNET.\nThe village has stopped meeting my eye.\n\n--- 14 Nov 1994 ---\nEleven years to the night, a single light on the horizon, bearing 118 degrees,\nsteady. I took the skiff out. I rowed until my hands bled. There is nothing\nthere. The light stayed exactly as far away as it was before I started.\n\n--- 03 Mar 2003 ---\nThe Board proposes automating the lamp. I have refused. They ask why I would\nburn oil for a ship that is gone. I told them: ask the light.\n\n--- 22 Jan 2014 ---\nA fog came in thick as wool. Eleven men in a boat found the rocks of Skarn\nPoint by my beam and came ashore. One of them wept and shook my hand and\ncould not say why. I think I understand now.\n\n--- 20 Nov 2014 ---\nThis is the last page the Board will read. Everything I truly meant to say I\ndid not write on the pages. I wrote it in the binding -- in the little header\neach page carries *before* the page itself. A lamp has two kinds of light:\nthe one you see, and the one you only learn to read.\n\nThe beam also speaks in a code the ear cannot catch. Five signs. Read it as a\npicture, not as a sound. Seal: the ship's name, then the signs.\n\n                                                             -- H. V.\n\nWAV: 44100 Hz; 1 channels; 12.53 seconds\nIHDR: 900 500 [8, 2, 0, 0, 0]\nFilter values: [1, 2, 4] first 100: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 2, 4, 4, 2]\n",
+      "stderr": "",
+      "script_sha256": "55114562385490e568983235660452800eb357c30a4aebdd67f381b8fa577929"
+    },
+    {
+      "slug": "honest-hashes",
+      "script": "src/solvers/honest-hashes/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "selected bits: 240 raw bytes: b'RBH{n0t_3v3ry_a_1s_an_a}\\x00\\x00\\x00\\x00\\x00\\x00'\nRBH{n0t_3v3ry_a_1s_an_a}\n",
+      "stderr": "",
+      "script_sha256": "8a656e1786089bc87cb20830b7a1d668602ed2895a8e1a8ffd6814565e63040f"
+    },
+    {
+      "slug": "mirage",
+      "script": "src/solvers/mirage/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "key: Byte\nBase64: UkJIezN2M3J5X2ZsNGdfc3Q0cnRzX3cxdGhfVWtKSX0=\nRBH{3v3ry_fl4g_st4rts_w1th_UkJI}\n",
+      "stderr": "",
+      "script_sha256": "458cd366f8a074a357939b389173bd5e4c6fba1a4a6456920d60e8f52dd42434"
+    },
+    {
+      "slug": "night-4018",
+      "script": "src/solvers/night-4018/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "Declared: 1672 741 scanline height: 941 extra rows: 200\nSaved repaired.png and hidden-band.png; read the flag visually\nTail decoy: night_log.txt NIGHT LOG - entry 4017 (recovered)\n\nThe window was open. The camera was on the sill, same as every night.\nThe moon was full and hung over the rooftops, exactly where it hung at 2:47 every night.\nShe wrote one line and underlined it: \"the moon watched, as it always does.\"\n\nIf you found this file, you are looking in the right place.\nThe final entry is stored below. Decode it.\n\n    UkJIe3RoM19tMDBuX3c0dGNoM2RfNDAxN30=\n\n(the log keeps going, but the rest is not in this file)\n\nNOTE: this log is a decoy. The entry above is NOT the answer. Do not submit it.\n\n",
+      "stderr": "",
+      "script_sha256": "6610a627b740a61ec3f55c4bc56d7fe63f3d35c4c9a04032a988f3737448469a"
+    },
+    {
+      "slug": "perpetual-leak",
+      "script": "src/solvers/perpetual-leak/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "ciphertext : 53 bytes\nplaintext  : b'RBH{p3rp3tu4l_ch3ck_c4nt_h1d3_th3_k3y_1n_th3_squ4r3s}'\nflag       : RBH{p3rp3tu4l_ch3ck_c4nt_h1d3_th3_k3y_1n_th3_squ4r3s}\n",
+      "stderr": "",
+      "script_sha256": "99b345ed8b96800f6c309f14af850204cd23c64cc06addc9bfdd75025c81046c"
+    },
+    {
+      "slug": "the-cave-keeps-no-secrets",
+      "script": "src/solvers/the-cave-keeps-no-secrets/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "ciphertext bytes: 40 alphabet: facde0123456789b\nRBH{th3_sh4d0w_n3v3r_l13s_th3_w4ll_d03s}\n",
+      "stderr": "",
+      "script_sha256": "da55ead8a8059723fa3adc445383f21759f26e45513bca1dd1b6e89abe76a717"
+    },
+    {
+      "slug": "the-keeper-of-salt-reach",
+      "script": "src/solvers/the-keeper-of-salt-reach/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "35 checksums passed; unique byte at each position\nRBH{th3_l1ght_w4s_n3v3r_l1t_4t_4ll}\n",
+      "stderr": "",
+      "script_sha256": "1b319def4cef494516fed136ea75b3ac6cf35cbd0b359eb0e2d3f5366194f643"
+    },
+    {
+      "slug": "the-king-and-the-beggar",
+      "script": "src/solvers/the-king-and-the-beggar/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "hex text: a440a530448640f5348644e430344486059560f5347095c4f75756\nkey: 0x37\nRBH{n0th1ng_st4ys_th3_s4m3}\n",
+      "stderr": "",
+      "script_sha256": "28a2248d20c87ecb4c5e28c8b78825f5a9025ef6b44e2ae3165faa4520222885"
+    },
+    {
+      "slug": "the-quiet-hour",
+      "script": "src/solvers/the-quiet-hour/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "[*] image 1400x940\n[*] period percentiles: [92.0, 100.0, 110.0, 121.0, 128.0]\n[*] first 20 rows: [94, 104, 123, 117, 114, 95, 98, 119, 117, 122, 100, 109, 96, 115, 104, 118, 126, 130, 104, 115]\n[*] saved recovered.png / disparity.npy\n",
+      "stderr": "",
+      "script_sha256": "8b7ef7254c6a9da2e530dafa2262d69eb3d8a2de3ebfcb0e388149e80bbd97e4"
+    },
+    {
+      "slug": "the-stopped-clock",
+      "script": "src/solvers/the-stopped-clock/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "b'Title' last_seen\nb'Description' The last picture on Leo's phone\nb'Comment' Every picture is bigger than it looks. Follow it all the way to the end - something is waiting for you there.\nOuter ZIP: ['voicemail.wav', 'leo_diary.zip']\nWAV: 22050 Hz; 1 channels; 20.0 seconds\n=== LEO'S DIARY ===\n(These pages are mine. If you found them, please read them slowly.)\n\n\n12 Oct\nI walked past the old clock tower again tonight. The clock still shows the\nsame time it showed last year, and the year before that. Nobody in this city\never fixed it. I think people got used to it. Maybe they like having one\nthing that doesn't change.\n\n14 Oct\nA man at the bus stop said, \"That clock is broken, what a shame.\"\nI told him it isn't broken. It's just honest. Everything around it keeps\nmoving, but some things stay exactly where they are, like a sentence you\nnever finished, or a letter you never sent.\n\n17 Oct\nMom asked me where I go so late every night. I said, \"Nowhere.\"\nWhat I couldn't say is that I stand under that clock and count people.\nHow many walk past. How many stop and look up. Lately, almost nobody stops.\n\n21 Oct\nI met an old man by the tower today. He smiled and said, \"Whatever you're\nlooking for, it isn't in that clock. The ticking is inside you.\"\nI laughed and walked away. But I lay awake all night thinking about it.\n\n24 Oct\nToday I took off my wristwatch and put it in a drawer. It felt strange.\nFor a moment I felt lighter, like a noise I'd heard for years had finally\ngone quiet. Or maybe I was the one who switched it off.\n\n27 Oct\nI recorded a voicemail tonight. Some things sound clearer when you say them\nout loud. But after I said it, there was nobody on the other end. So I am\nwriting it down here as well. Please listen to it too.\n\n29 Oct, night\nThis is the last page. The rest was torn away, and this is all I have left.\nI thought about whether to write it down sixty-four times. In the end I did.\nThis is the first half of the truth:\n\n    UkJIe3QxbWVfbjN2M3Jfc3QwcHAzZF8=\n\nThe second half is on the torn page, in the faintest layer of the paper.\nWritten in red ink, the kind your eyes will miss. Put the two halves\ntogether, and maybe you'll understand where I went.\n\nOne more thing. Please don't look for me. I never really left.\n\n                                                                  -- Leo\n\nRBH{t1me_n3v3r_st0pp3d_\nSaved red-lsb.png; suffix requires visual reading\n",
+      "stderr": "",
+      "script_sha256": "23508b402fc32772c13fcfcf7013bd01148feff6e6c5ad17f48556a5341bc624"
+    },
+    {
+      "slug": "three-guards",
+      "script": "src/solvers/three-guards/solve.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "Alphabet: THREGUADSBCFIJKLMNOPQVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\nCorrelations: guard 1 = 245/328; guard 3 = 254/328\nSelector constraints: 157 (exactly one nonzero seed)\nSeeds: 64988 478853 214757\nPlaintext: The King's decree: the vault code is RBH{tw0_gu4rds_t0ld_th3_truth}\nFlag: RBH{tw0_gu4rds_t0ld_th3_truth}\nIndependent scalar decryption: PASS\nExact full ciphertext re-encoding: PASS\n",
+      "stderr": "",
+      "script_sha256": "bafc65d2d06deeadc6c72abab532e744919fc06575da1b0e55375194f25683bd"
+    },
+    {
+      "slug": "halvards-light",
+      "script": "src/solvers/halvards-light/decrypt.py",
+      "kind": "solver",
+      "exit_code": 0,
+      "stdout": "scheme: key=PBKDF2-HMAC-SHA256((pw+\":\"+code.lower()).encode(),salt,iters,dklen=32);plaintext=AES-256-GCM(key,nonce,ct||tag)\niterations: 15000000\nsalt: cd05bed7bcdd7ffcd8cae695d87b1114\nnonce: 9a26baf700aa0167ad76bd66\nGCM authentication and ciphertext round trip: PASS\nRBH{the_light_was_for_the_living_7c60765a}\n\nTo whoever is reading this by a light that is still burning,\n\nI kept the lamp lit for thirty-one years, for a ship that was already on the\nbottom of the sea the night I first lit it. The Board called it grief. The\nvillage called it madness. I called it faith. I was wrong about all three.\n\nEvery year, on the night the Marigold was lost, a small light hung on the\nhorizon and never moved. I rowed out to it in 1994 and found only water.\nIt was a star. A star you see tonight left itself behind long ago; what\nreaches your eye is the past, still travelling. I had been guarding a light\nthat was already history, and calling it hope.\n\nI thought my lamp was a rope thrown into the dark so that Mira could climb\nback up it. But a light is never for the ones who are gone. It is for the\nones who are still sailing.\n\nLast winter a fishing boat found the rocks of Skarn Point in a fog thick as\nwool, steered by my lamp, and came home. Eleven men. Not one of them was\nMira. Every one of them was somebody's Mira.\n\nThat is what the light was for. It took me thirty-one years and eleven\nstrangers to learn it. Grief is not a lamp you keep lit for the dead. It is a\nlamp you light for the living, because of the dead.\n\nTonight I leave the lamp to the next keeper. I am going to sit on the rocks\nwithout it for the first time, and watch the water, and let her rest.\n\n                                                         -- H. Venn, Keeper\n                                                            Skarn Point, 2014\n\n",
+      "stderr": "",
+      "script_sha256": "22527aeb3e16ea63276fd51b235fc7e115fbf0f74da7619c04d4952d63399ead"
+    },
+    {
+      "slug": "lethe",
+      "script": "src/solvers/lethe/mechanism_demo.py",
+      "kind": "demo",
+      "exit_code": 0,
+      "stdout": "Allocated: [7, 8, 9]\nReused 9 inherits: DEMO_ONLY old nine\nForeign keys plus cascading deletion: no stale echo inherited\n",
+      "stderr": "",
+      "script_sha256": "904d05dd9d2cbffa37493a13ecdb56614a3d74c66d1f82c98625a8ad27e8d876"
+    },
+    {
+      "slug": "postmarked-never",
+      "script": "src/solvers/postmarked-never/mechanism_demo.py",
+      "kind": "demo",
+      "exit_code": 0,
+      "stdout": "Synthetic SQLite demonstration: vulnerable query exposes DEMO_ONLY; parameterized query does not\n",
+      "stderr": "",
+      "script_sha256": "8f70c5d5d7f667a0a9068afd78f41324eb353520007e87e6e64d3b6cab7a0f8c"
+    },
+    {
+      "slug": "the-hargrove-disappearance",
+      "script": "src/solvers/the-hargrove-disappearance/mechanism_demo.py",
+      "kind": "demo",
+      "exit_code": 0,
+      "stdout": "Synthetic ordering demonstration: ../.sealed/TR-0344\nNo filesystem traversal, database creation, or HTTP request was performed\n",
+      "stderr": "",
+      "script_sha256": "4009fb6b27e325b8cc86713a1ee4c55df6cd3122e257009bdfd519ece4f32eb2"
+    },
+    {
+      "slug": "the-last-waltz",
+      "script": "src/solvers/the-last-waltz/mechanism_demo.py",
+      "kind": "demo",
+      "exit_code": 0,
+      "stdout": "Synthetic normalization demonstration: fullwidth E matches; Cyrillic E does not\n",
+      "stderr": "",
+      "script_sha256": "ea9c0ca084868441f296d8f660c559faf6d682cb4975a562fb69211305ba3c68"
+    }
+  ]
+}
